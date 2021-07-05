@@ -4,6 +4,7 @@ In this Project I have made a Python program using hashlib library of python als
 The output can be checked by providing a string value to the program.
 Kindly run the program in google colab.
 I tried my best to keep the program short any changes required please let me know
+Check the copy_of_hashing.ipynb file as this is the correct one.
 
 Thank you
 
